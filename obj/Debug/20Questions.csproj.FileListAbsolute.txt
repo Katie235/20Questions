@@ -1,0 +1,7 @@
+C:\Users\katie\OneDrive\Desktop\20Questions\bin\Debug\20Questions.exe.config
+C:\Users\katie\OneDrive\Desktop\20Questions\bin\Debug\20Questions.exe
+C:\Users\katie\OneDrive\Desktop\20Questions\bin\Debug\20Questions.pdb
+C:\Users\katie\OneDrive\Desktop\20Questions\obj\Debug\20Questions.csprojAssemblyReference.cache
+C:\Users\katie\OneDrive\Desktop\20Questions\obj\Debug\20Questions.csproj.CoreCompileInputs.cache
+C:\Users\katie\OneDrive\Desktop\20Questions\obj\Debug\20Questions.exe
+C:\Users\katie\OneDrive\Desktop\20Questions\obj\Debug\20Questions.pdb
